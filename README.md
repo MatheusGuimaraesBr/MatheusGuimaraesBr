@@ -1,4 +1,4 @@
-# 👨‍💻 Matheus Guimarães
+# 💻 Matheus Guimarães
 
 **`Software/QA Engineer | Focusing on Data, AI & Analytics`**
 
@@ -23,7 +23,7 @@ Apaixonado por inovação tecnológica e apoiado por uma trajetória sólida de 
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🧮 Tecnologias e Ferramentas
 
 <div align="left">
   <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
