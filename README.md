@@ -2,20 +2,20 @@
 
 **`Software/QA Engineer | Focusing on Data, AI & Analytics`**
 
-Apaixonado por inovação tecnológica e apoiado por uma trajetória sólida de 5 anos em Software e Qualidade (QA), estou direcionando minha carreira para Ciência e Engenharia de Dados. Minha vivência técnica, que abrange desde o desenvolvimento Back-end até a automação de testes E2E e a manipulação avançada de dados com SQL, fornece a base necessária para criar soluções de dados robustas e escaláveis.
+Passionate about technological innovation and backed by a solid 5-year background in Software and Quality Assurance (QA), I am pivoting my career towards Data Science and Data Engineering. My technical expertise, ranging from Back-end development to E2E test automation and advanced data manipulation with SQL, provides the necessary foundation to build robust and scalable data solutions.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/matheus-guimar%C3%A3es-8938b2203">
         <img 
             alt="LinkedIn" 
-            title="Conecte-se comigo" 
+            title="Connect with me" 
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=for-the-badge"
         />
     </a>
     <a href="mailto:matheusguimaraesprofissional@gmail.com">
         <img 
             alt="Gmail" 
-            title="Entre em contato" 
+            title="Contact me" 
             src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"
         />
     </a>
@@ -23,7 +23,7 @@ Apaixonado por inovação tecnológica e apoiado por uma trajetória sólida de 
 
 ---
 
-### 🧮 Tecnologias e Ferramentas
+### 🧮 Tech Stack & Tools
 
 <div align="left">
   <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -56,14 +56,14 @@ Apaixonado por inovação tecnológica e apoiado por uma trajetória sólida de 
 <br />
 <br/>
 
-### 🔭 Áreas de Foco e Projetos
+### 🔭 Focus Areas & Projects
 
-| Atuação | O que estou desenvolvendo |
+| Role | What I'm building |
 | :--- | :--- |
-| **🧪 Ciência de Dados** | Modelagem preditiva, Estatística Aplicada e Machine Learning. |
-| **🤖 Engenharia de IA** | Agentes Autônomos, RAG e LLMs. |
-| **🏗️ Engenharia de Dados** | Pipelines ETL/ELT robustos, Data Quality e Arquitetura em Nuvem. |
-| **📊 Análise de Dados** | Dashboards estratégicos e tomada de decisão orientada a dados. |
-| **🐈‍ Algoritmos Quânticos** | Estudos relacionados a algoritmos de Computação Quântica. |
+| **🧪 Data Science** | Predictive modeling, Applied Statistics, and Machine Learning. |
+| **🤖 AI Engineering** | Autonomous Agents, RAG, and LLMs. |
+| **🏗️ Data Engineering** | Robust ETL/ELT pipelines, Data Quality, and Cloud Architecture. |
+| **📊 Data Analytics** | Strategic dashboards and data-driven decision making. |
+| **🐈‍ Quantum Algorithms** | Studies related to Quantum Computing algorithms. |
 
 <br/>
