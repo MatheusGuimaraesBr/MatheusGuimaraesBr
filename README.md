@@ -12,13 +12,6 @@ Passionate about technological innovation and backed by a solid 5-year backgroun
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=for-the-badge"
         />
     </a>
-    <a href="mailto:matheusguimaraesprofissional@gmail.com">
-        <img 
-            alt="Gmail" 
-            title="Contact me" 
-            src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge"
-        />
-    </a>
 </p>
 
 ---
