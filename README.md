@@ -48,7 +48,7 @@ Apaixonado por inovação tecnológica e apoiado por uma trajetória sólida de 
   <img align="left" alt="LangChain" title="LangChain" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" />
   <img align="left" alt="TensorFlow" title="TensorFlow" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
   <img align="left" alt="IBM Qiskit" title="IBM Qiskit" width="30px" style="padding-right: 10px;" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" />
-  <img align="left" alt="Google Cirq" title="Google Cirq" width="30px" style="padding-right: 10px;" src="[https://avatars.githubusercontent.com/u/33633192?s=200&v=4](https://raw.githubusercontent.com/MatheusGuimaraesBr/MatheusGuimaraesBr/refs/heads/main/qiskit.svg)" />
+  <img align="left" alt="Google Cirq" title="Google Cirq" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/MatheusGuimaraesBr/MatheusGuimaraesBr/refs/heads/main/qiskit.svg" />
   <img align="left" alt="Azure" title="Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
   <img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="left" alt="GCP" title="Google Cloud" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
