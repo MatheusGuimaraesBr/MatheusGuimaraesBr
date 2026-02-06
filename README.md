@@ -1,4 +1,4 @@
-# 💻 Matheus Guimarães
+# Matheus Guimarães
 
 **`Software/QA Engineer | Focusing on Data, AI & Analytics`**
 
